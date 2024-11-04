@@ -1,0 +1,10 @@
+Controls are responsive and convenient -4
+Mechanics are working, without major bugs and exploits -8
+Game has some kind of progression. Opens new skills or is becoming more difficult after some time. Game saves some data between sessions -2
+Game have a consistent visual style, no graphics artifacts or glitches -2
+UI contain necessary information and adaptive to different screens. Game include main menu -2
+Game settings can be changed in menu. Changes are saved between sessions -2
+Player can enjoy different types of content. There might be more than one level, type of enemy, upgrades, etc -2
+Game is built to PC or Mobile platform -2 
+Folder structure of the project is clean and understandable -1
+Code style is consistent through the whole project. Copy-Pasted code is also adapted to the style -1
